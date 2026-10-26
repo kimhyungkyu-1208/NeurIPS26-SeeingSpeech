@@ -1,0 +1,9 @@
+torch
+torchaudio
+transformers
+numpy
+scipy
+librosa
+soundfile
+trimesh
+tqdm
